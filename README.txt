@@ -1,7 +1,7 @@
 Elements of Programming Interviews problems
 
 ch05 - 2 / 15
-ch06 - 1 / 26
+ch06 - 2 / 26
 ch07 - 0 / 14
 ch08 - 1 / 19
 ch09 - 0 / 15
@@ -19,5 +19,5 @@ ch20 - 0 / 14
 ch21 - 0 / 16
 
 Total
-5 / 284 problems
+6 / 284 problems
 
